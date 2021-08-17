@@ -9,8 +9,8 @@ void printArray(int arr[], int len){
     cout << endl;
 }
 
-void visualizer(){
-    
+void visualizer(int len){
+
 }
 
 void bubbleSort(int arr[], int len){
