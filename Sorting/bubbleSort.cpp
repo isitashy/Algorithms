@@ -9,10 +9,6 @@ void printArray(int arr[], int len){
     cout << endl;
 }
 
-void visualizer(int len){
-
-}
-
 void bubbleSort(int arr[], int len){
     for(int i = 0; i < len; i++){
         for(int j = 0; j < len-i; j++){
